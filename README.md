@@ -34,6 +34,8 @@ OpenWeatherMap API → Weather data
 
 Add manual city search option
 
+## checkout :https://ashwithd.github.io/Weather-Dashboard/
+
 Show severe weather alerts
 
 Add charts for temperature trends
